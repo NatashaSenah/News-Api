@@ -11,7 +11,7 @@ Slight problem problem when creating the app.
 ## Technologies Used
 Python version 3.6,bootstrap
 ## Support and contact details
-Call:0766889933/E-mail:tashsenah@gmail.com
+Call:0766889933
 ### License
 Copyright 2018 Natasha Senah
 
